@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/bdn4XC4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media1.tenor.com/images/6f23552ab5d8a5b5336c944976e4d154/tenor.gif?itemid=27616880' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
